@@ -2,15 +2,25 @@
 This is a file
 
 ## Big Goals: 
-[] Design UI  
+[✔️] Design UI  
 [] Code backend  
 [] Code frontend  
   
-### Design UI:  
-[] pick an idea  
-[] color palette   
-[] finalize layout  
+### Design UI (done in Figma):  
+[✔️] pick an idea - H2OODLE  
+[✔️] color palette   
+[✔️] finalize layout  
+
   
 ### Code backend:  
+[] Decide on platform to use  
+[] Physics for water  
+[] Ink physics   
+[] Interactions between ink and water  
+[] Menu work  
   
-### Code frontend:
+### Code frontend:  
+[] Animated start  
+[] Menu Display  
+[] Brushes  
+[] Ink colors
