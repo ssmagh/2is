@@ -24,3 +24,11 @@ This is a file
 [] Menu Display  
 [] Brushes  
 [] Ink colors
+  
+# For Coding:  
+Tutorial Link: https://developer.android.com/training/basics/firstapp/creating-project  
+- Install Android Studio
+- Pull repo and open folder
+
+# For running on Device:  
+Tutorial Link: https://developer.android.com/studio/run/oem-usb  
