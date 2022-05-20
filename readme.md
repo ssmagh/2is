@@ -13,17 +13,20 @@ This is a file
 
   
 ### Code backend:  
-[] Decide on platform to use  
+[✔️] Decide on platform to use  
 [] Physics for water  
 [] Ink physics   
 [] Interactions between ink and water  
-[] Menu work  
+[✔️] Menu work  
   
 ### Code frontend:  
 [] Animated start  
+[] Color Palette/backgrounds  
+[] Layout to fullscreen page  
+[] Transitions between Activites  
 [] Menu Display  
 [] Brushes  
-[] Ink colors
+[] Ink colors  
   
 # For Coding:  
 Tutorial Link: https://developer.android.com/training/basics/firstapp/creating-project  
